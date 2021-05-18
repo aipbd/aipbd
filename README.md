@@ -8,6 +8,6 @@
 </p>
 <p align="center">
 	<a href="https://www.linkedin.com/in/ashrafulbd"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:avoid.ashraful@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-Contact%20Me-green" alt="Contact Me">avoid.ashraful@gmail.com</a>
-  <a href="https://stackoverflow.com/users/10503936/ashraful-islam"><img src="https://img.shields.io/stackexchange/stackoverflow/r/2696165?label=stackoverflow&style=plastic" alt="Stackoverflow"></a>
+  <a href="mailto:avoid.ashraful@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-avoid.ashraful%40gmail.com-informational" alt="Contact Me"></a>
+  <a href="https://stackoverflow.com/users/10503936/ashraful-islam"><img src="https://img.shields.io/stackexchange/stackoverflow/r/10503936?label=stackoverflow&style=plastic" alt="Stackoverflow"></a>
 </p>
